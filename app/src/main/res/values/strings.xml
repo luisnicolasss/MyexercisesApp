@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyExercises App</string>
+    <string name="LoginTxt">Are you have account? <font color="#FD511E">Signin</font></string>
+</resources>
